@@ -28,6 +28,7 @@ Objective: Scrape for data with size of 3000+ samples
                         director's likes
                         movie page's likes
                         actor(s)'s likes
+                        other reactions on facebook(overview)
                     3. script that creates a data frame with the scraped data and subsequently converts it to a .csv file
 
 Objective: Analyze data
@@ -48,7 +49,7 @@ Objective: Analyze data
                         scatter plots of relevant factors
                     5. causation analysis
                         OFAT
-                        Principle analysis
+                        Principle component analysis
 
 Objective: Present data
     Person / People Assigned: ALL
